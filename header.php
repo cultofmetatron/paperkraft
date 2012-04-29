@@ -50,6 +50,7 @@
 					
 					<nav role="navigation" class="nav">
 						<?php bones_main_nav(); // Adjust using Menus in Wordpress Admin ?>
+						
 					</nav>
 				
 				</div> <!-- end #inner-header -->

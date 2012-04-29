@@ -97,6 +97,8 @@ jQuery(function($) {
         enabled = false;
     }
 	
+	alert("poop balls");
+	
     function checkTilt( e ){
 		aig = e.accelerationIncludingGravity;
 		x = Math.abs( aig.x );
@@ -118,3 +120,15 @@ jQuery(function($) {
 	w.addEventListener( "devicemotion", checkTilt, false );
 
 })( this );
+
+// my code goes here
+(function($) {
+	
+	
+	
+	$(document).ready(function() {
+		
+	})
+})(jQuery);
+
+

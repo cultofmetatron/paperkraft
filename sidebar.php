@@ -1,6 +1,6 @@
 				<div id="sidebar1" class="sidebar fourcol last clearfix" role="complementary">
 				
-					<?php get_search_form(); ?>
+					<?php// get_search_form(); ?>
 
 					<?php if ( is_active_sidebar( 'sidebar1' ) ) : ?>
 
