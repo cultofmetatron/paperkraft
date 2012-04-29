@@ -20,7 +20,6 @@ Template Name: Custom Page Example
 								
 								<h1><?php the_title(); ?></h1>
 								
-							
 							</header> <!-- end article header -->
 						
 							<section class="post-content">
