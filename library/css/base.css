@@ -692,6 +692,9 @@ style a page via class
 /* if user is logged in */
 /* paged items like search results or archives */
 /* individual paged (i.e. body.paged-3) */
+p.nocomments {
+  display: none;
+}
 /*********************
 LAYOUT & GRID STYLES
 *********************/
